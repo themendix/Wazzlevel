@@ -14,16 +14,7 @@ navigateur du téléphone.
 | `icon-192.png` / `icon-512.png` | Icônes de l'application |
 | `.nojekyll` | Désactive Jekyll sur GitHub Pages |
 
-## Déploiement sur GitHub Pages
 
-1. Crée un dépôt GitHub **public**.
-2. Place le contenu de ce dossier **à la racine du dépôt** (pas dans un sous-dossier),
-   `.nojekyll` compris — c'est un fichier caché, pense à l'inclure.
-3. Dépôt → *Settings* → *Pages* → Source : *Deploy from a branch*, branche `main`, dossier `/ (root)`.
-4. L'app est en ligne sous `https://<ton-pseudo>.github.io/<ton-depot>/` après 1 à 2 minutes.
-
-Tous les chemins sont relatifs (`./`) : l'app fonctionne aussi bien à la racine d'un
-domaine que dans un sous-dossier. Netlify Drop et Vercel fonctionnent à l'identique.
 
 ## Installer l'icône sur le téléphone
 
