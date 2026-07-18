@@ -1,6 +1,6 @@
 {
-  "name": "GymLevels",
-  "short_name": "GymLevels",
+  "name": "WazzLevels",
+  "short_name": "WazzLevels",
   "description": "Suivi de musculation gamifié — niveaux, rangs par muscle, programmes personnalisés.",
   "start_url": "./",
   "scope": "./",
